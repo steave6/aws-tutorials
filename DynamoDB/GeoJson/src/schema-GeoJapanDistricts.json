@@ -9,7 +9,7 @@
    { "AttributeName": "code", "AttributeType": "S" }
   ],
   "ProvisionedThroughput": {       
-    "ReadCapacityUnits": 4, 
-    "WriteCapacityUnits": 1
+    "ReadCapacityUnits": 20, 
+    "WriteCapacityUnits": 10
   }
 }
