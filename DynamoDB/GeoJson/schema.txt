@@ -1,0 +1,10 @@
+
+{
+  TableName: GeoJapanDistricts
+  Fields:↓
+  year: "2018"
+  code: "01101"
+  type: "Feature"
+  properties: {CoordinateCode, Prefecture, Branch, City_1, City_2}
+  geometry: {type, coordinates}
+}
